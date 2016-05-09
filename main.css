@@ -1,0 +1,18 @@
+* {
+    /*border:2px solid red;*/
+}
+
+body{
+    display: flex;
+    justify-content: space-around;
+}
+
+#target-this-one {
+    color: burlywood;
+    -webkit-text-stroke-color: brown;
+    -webkit-text-stroke-width: 2px;
+}
+
+#target-this-one:hover {
+    color: cornflowerblue;
+}
